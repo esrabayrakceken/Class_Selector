@@ -1,4 +1,4 @@
-# Class_Selector
+# class-selector
 ## Another variant of Css selector is class selector(Css selectorun başka bir çeşidi class selector)
 - CSS de öğelere stil vermek için kanca amacıyla kullanılır. Bir class birden fazla öğeye uygulanabilir.
 - Öncellikle stil vermek istediğimiz öğelere .html dosyasında class tanımlaması yapıyoruz. Class isimleri anlaşılır ve kısa olmalıdır.
